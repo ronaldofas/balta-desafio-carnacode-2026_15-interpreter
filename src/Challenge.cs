@@ -102,9 +102,9 @@ namespace DesignPatternChallenge
         }
     }
 
-    class Program
+    public class ChallengeProgram
     {
-        static void Main(string[] args)
+        public static void RunLegacy()
         {
             Console.WriteLine("=== Sistema de Regras de Desconto ===\n");
 
